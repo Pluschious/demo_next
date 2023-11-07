@@ -1,0 +1,8 @@
+.prodStyle {
+    border: 1px sold black;
+    border-radius: 8px;
+    width: 125px;
+    padding: 1rem;
+    overflow: scroll;
+    margin: 1rem;
+}
